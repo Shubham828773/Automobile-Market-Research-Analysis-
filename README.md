@@ -46,8 +46,8 @@ Which car body type is most preferred by customers?
 - load all all tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
+Screenshot <a https://drive.google.com/file/d/1FzNGIi-GWEuUdPCyQzx16sG6z2xpMyyR/view?usp=drive_link">Click Here</a>
 
-![Screenshot (495)](https://drive.google.com/file/d/1FzNGIi-GWEuUdPCyQzx16sG6z2xpMyyR/view?usp=drive_link)
 
 
 
